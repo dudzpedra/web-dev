@@ -1,5 +1,5 @@
 # web-dev
-My fron-end web developer portfolio.
+My front-end web developer portfolio.
 
 All projects are made with Vuejs (https://vuejs.org) and hosted by Firebase (https://firebase.google.com).
 
